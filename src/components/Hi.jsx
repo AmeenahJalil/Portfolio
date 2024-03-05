@@ -1,5 +1,5 @@
 import React from "react";
-import selfie from "/src/assets/selfie.jpeg"
+import selfie from "../assets/selfie.jpeg"
 
 function Hi() {
   return (

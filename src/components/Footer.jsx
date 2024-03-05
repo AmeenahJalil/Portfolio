@@ -1,5 +1,6 @@
 import React from "react";
-import linkedinLogo from "/src/assets/linkedin.svg"
+import linkedinLogo from "../assets/linkedin.svg"
+
 
 
 function Footer() {
