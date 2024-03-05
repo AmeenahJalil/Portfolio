@@ -2,6 +2,8 @@ import React from "react";
 import '../App.css'
 
 function Header() {
+   
+
   return (
     <header>
         <nav className = "flex-container">
@@ -9,7 +11,7 @@ function Header() {
       
         <a href="#">Home</a>
 
-        <a href="#">About</a>
+        <a href="#about">About</a>
 
         <a href="#">Projects</a>
 
