@@ -4,6 +4,10 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: pink;
 }
+.selfie{
+  height: 20rem;
+  border-radius: 5rem;
+}
 
 h1 {
   font-size: 3.2em;
@@ -14,12 +18,15 @@ header{
   color: black;
   height: 5vh;
 }
-
+footer{
+  text-align: center;
+}
 .logo {
   height: 6em;
   padding: 1.5em;
   will-change: filter;
   transition: filter 300ms;
+  
 }
 
 .logo.react:hover {
@@ -31,6 +38,8 @@ header{
   flex-direction: row;
   justify-content: space-between;
 }
+
+
 
 
 
