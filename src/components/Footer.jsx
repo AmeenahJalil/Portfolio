@@ -13,7 +13,7 @@ function Footer() {
         {/* <a href="https://vitejs.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a> */}
-        <a href="https://www.linkedin.com/in/ameenah-jalil/" target="_blank">
+        <a id="contact" href="https://www.linkedin.com/in/ameenah-jalil/" target="_blank">
           <img src={linkedinLogo} className="logo react" alt="Linkedin logo" />
         </a>
         <a href="https://github.com/AmeenahJalil" target="_blank">

@@ -13,9 +13,9 @@ function Header() {
 
         <a href="#about">About</a>
 
-        <a href="#">Projects</a>
+        <a href="projects">Projects</a>
 
-        <a href="#">Contact</a>
+        <a href="contact">Contact</a>
 
         <a href="#">CV</a>
         </nav>
