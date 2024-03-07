@@ -9,6 +9,11 @@
   border-radius: 5rem;
 }
 
+.bookmarkdImage{
+  height: 20rem;
+  border-radius: 0rem;
+}
+
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
